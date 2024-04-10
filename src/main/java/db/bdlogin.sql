@@ -1,3 +1,4 @@
+drop database if exists login;
 create database login;
 use login;
 
